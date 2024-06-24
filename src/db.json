@@ -1,55 +1,34 @@
-
 {
-    "locations": [
-        {
-            "id": "1" ,
-            "name": "Cinque Stelle Lusso" ,
-            "completed": false
-        },
-        {
-            "id": "2" ,
-            "name": "Fratelli B&B" ,
-            "completed": false
-        },
-        {
-            "id": "3" ,
-            "name": "Ottimo Gusto" ,
-            "completed": false
-        },
-        {
-            "id": "4" ,
-            "name": "Artisti" ,
-            "completed": false
-        },
-        {
-            "id": "5" ,
-            "name": "Entry level" ,
-            "completed": false
-        },
-        {
-            "id": "6" ,
-            "name": "Casa dell'artista" ,
-            "completed": false
-        },
-        {
-            "id": "7" ,
-            "name": "Bear Brothers" ,
-            "completed": false
-        },
-        {
-            "id": "8" ,
-            "name": "Mezza Pensione" ,
-            "completed": false
-        },
-        {
-            "id": "9" ,
-            "name": "Il Canale" ,
-            "completed": false
-        },
-        {
-            "id": "10" ,
-            "name": "Club Alumni" ,
-            "completed": false
-        }
-    ]
+  "locations": [
+    {
+      "id": "8dba",
+      "name": "Destinazione Mare",
+      "completed": false
+    },
+    {
+      "id": "496c",
+      "name": "Casa dell'artista",
+      "completed": true
+    },
+    {
+      "id": "a1e1",
+      "name": "Bel vedere Hotel",
+      "completed": true
+    },
+    {
+      "id": "a846",
+      "name": "Fratelli B&B",
+      "completed": false
+    },
+    {
+      "id": "0f97",
+      "name": "Cinque Stelle Lusso",
+      "completed": false
+    },
+    {
+      "id": "938a",
+      "name": "Natura Sconfinata",
+      "completed": false
+    }
+  ]
 }
